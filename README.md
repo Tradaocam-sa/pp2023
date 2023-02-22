@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: sad
-* Student ID: asd
+* Student Name: DO DUY ANH
+
+* Student ID: BI12-034
 
